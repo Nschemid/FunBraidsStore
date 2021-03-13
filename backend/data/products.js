@@ -1,6 +1,5 @@
 const products = [
   {
-    _id: '1',
     name: 'Awesome Skulls Collection',
     image: '/images/1.jpeg',
     description:
@@ -13,7 +12,6 @@ const products = [
     numReviews: 12,
   },
   {
-    _id: '2',
     name: 'Beach Style',
     image: '/images/2.jpeg',
     description:
@@ -26,7 +24,6 @@ const products = [
     numReviews: 8,
   },
   {
-    _id: '3',
     name: 'Energizing stones',
     image: '/images/5.jpeg',
     description:
@@ -39,11 +36,10 @@ const products = [
     numReviews: 12,
   },
   {
-    _id: '4',
-    name: 'Crystals For Better Energy',
+    name: 'Fun Viking set',
     image: '/images/6.jpeg',
     description:
-      'These stones activates the heart (fourth) chakra and promotes positive energy. It enhances all types of love: self-love, love for others, and unconditional love.',
+      'Enjoy the fun set of vikings',
     brand: 'MyBraids',
     category: 'Handmade Jewellery',
     price: 6.00,
@@ -52,7 +48,6 @@ const products = [
     numReviews: 12,
   },
   {
-    _id: '10',
     name: 'Crystals For Better Energy',
     image: '/images/7.jpeg',
     description:
@@ -65,11 +60,10 @@ const products = [
     numReviews: 12,
   },
   {
-    _id: '6',
-    name: 'Crystals For Better Energy',
+    name: 'Stones and Skull mix',
     image: '/images/8.jpeg',
     description:
-      'These stones activates the heart (fourth) chakra and promotes positive energy. It enhances all types of love: self-love, love for others, and unconditional love.',
+      'This mix will make your look fun and colorful',
     brand: 'MyBraids',
     category: 'Handmade Jewellery',
     price: 6.00,

@@ -26,3 +26,5 @@ yarn-error.log*
 
 # my notes
 /frontend/Notes.md
+.development.md
+.mongoDev.md
